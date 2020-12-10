@@ -1,0 +1,3 @@
+https://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html?fbclid=IwAR1Rk1K2kOGXSE0G1SlLkmjcOO3Xvu7CtgAqkvWmazumNPualXh6r_cT-oE
+
+http://localhost:88/CongNgheMoi/API/formInsertData.php (Insert Data)
