@@ -55,7 +55,7 @@
 				$ten = $arr[2];
 				$lop = $arr[3];
 				$source->sua($arr[0], $ho, $ten, $lop);
-				$this->response(200, "Updated.");
+				$this->response(200, file_get_contents("php://input"));
 			}
 			if($this->method == 'DELETE')
 			{

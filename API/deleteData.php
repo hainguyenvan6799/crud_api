@@ -1,5 +1,5 @@
 <?php
-	$idDelete = isset($_POST['id']) ? $_POST['id'] : null; 
+	$idDelete = isset($_POST['id']) ? $_POST['id'] : $_REQUEST['idD']; 
 	$url = "http://localhost:88/CongNgheMoi/API/api_test.php/user/delete";
 
 	$ch = curl_init($url);
